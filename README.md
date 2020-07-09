@@ -1,1 +1,3 @@
-# hez2010.github.io
+# Welcome~
+
+My blog site: https://hez2010.com
